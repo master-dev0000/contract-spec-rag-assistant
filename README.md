@@ -34,3 +34,12 @@ streamlit run app/app.py
 
 ## License
 MIT License. Developed by André Belarmino Alves.
+
+## 📊 Data Sources & Corpus Catalog
+The retrieval-augmented generation engine indexes verified international EPC contracts and civil engineering specifications:
+- **FIDIC Standard Contracts (Red, Yellow, and Silver Books):** Standard risk allocation, variations, claims, and dispute escalation clauses.
+- **World Bank Standard Procurement Documents (SPD):** Open procurement conditions and ESHS environmental and social guidelines.
+- **DNIT Especificações Técnicas:** Official Brazilian federal technical standards for earthmoving, asphalt pavement, and structural concrete pipes.
+- **ABNT Normas Brasileiras (NBR 6118, NBR 12721):** Structural tolerances, concrete cover, and cost composition standards.
+
+👉 **Complete clause catalog, metadata chunking strategy, and governance taxonomy are documented in [DATA_SOURCES.md](DATA_SOURCES.md).**
